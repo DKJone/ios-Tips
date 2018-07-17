@@ -8,3 +8,8 @@ ios 开发常见问题汇总
  
  ### 代码优化
  1. [影响编译速度的代码](./Code_optimization/1.影响编译速度的代码.md)
+ 2. [swift语法糖](./Code_optimization/2.swift语法糖.md)
+
+  ### 代码错误
+ 1. [影响编译速度的代码](./Confusing_code/1.容易让人误解的代码.md)
+ 2. [swift语法糖](./Confusing_code/2.容易忽略的错误代码.md)
